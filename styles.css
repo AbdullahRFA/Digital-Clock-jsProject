@@ -43,3 +43,11 @@ body {
     display: block;
     color: #ffcc00; /* Bright color for date */
 }
+.Bow {
+  padding-bottom: 0px;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: aqua;
+}
